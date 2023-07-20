@@ -1,0 +1,8 @@
+1|Mayank||Anuragi|1999-09-28|Male|23|9856587458|mayankanuragi2013@gmail.com|Bangalore
+2|Rakshit||Naik|1999-05-27|Male|24|97458965214|rakshitnaik79@gmail.com|Bangalore
+3|Manoj||Galanki|1999-04-03|Male|24|9587458965|manojgalanki@gmail.com|Bangalore
+4|saurav|k|k|1900-1-1|Male|123|1234567890|saurav@gmail.com|Bangalore
+5|gunesh|G|B|1900-1-1|Male|123|1234567890|gunesh@gmail.com|Bangalore
+6|hamza|s|s|1900-1-1|Male|123|1234567890|hamza@gmail.com|Bangalore
+7|rahul|s|s|1900-1-1|Male|123|1234567899|rahul@gmail.com|Bangalore
+8|huzaifa|shah|nawaz|1900-1-1|Male|123|1234567890|huzaifa@gmail.com|Bangalore

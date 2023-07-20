@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="out/artifacts/FindCollege_FS_Project_PROD_jar/FindCollege-FS-Project-PROD.jar"/>
+	<classpathentry kind="output" path="out/production/FindCollege-FS-Project-PROD"/>
+</classpath>

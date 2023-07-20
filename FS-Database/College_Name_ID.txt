@@ -1,0 +1,8 @@
+Atria Institute of Technology|1
+BMS Institute of Technology and Management|3
+Bangalore Institute of Technology|5
+R V Institute of Technology and Management|6
+RNS Institute of Technology|4
+Ramaiah Institute of Technology|2
+gurunank|8
+jain college|7

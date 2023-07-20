@@ -1,0 +1,8 @@
+1|Atria Institute of Technology|50.00|86000|Bangalore|9999999999|atria@atria.edu|www.atria.com
+2|Ramaiah Institute of Technology|85.00|86000|Bangalore|9536521478|ramaiah@ramaiah.edu|www.ramaiah.com
+3|BMS Institute of Technology and Management|75.00|86000|Bangalore|8569741256|bms@bms.edu|www.bms.com
+4|RNS Institute of Technology|60.00|150000|Bangalore|9658745236|rns@rns.edu|www.rns.com
+5|Bangalore Institute of Technology|80.00|86000|Bangalore|8547152369|bangalore@bangalore.edu|www.bangalore.com
+6|R V Institute of Technology and Management|55.0|240000|Bangalore|1234567890|rvitm@gmail.com|www.rvitm.com
+7|jain college|65.0|3455666|Bangalore|1234567890|jain@gmail.com|www.jain.com
+8|gurunank|65.0|340000|Bangalore|1234567890|gurunanak@gmail.com|www.guru.com

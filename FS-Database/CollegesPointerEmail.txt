@@ -1,0 +1,8 @@
+atria@atria.edu|0|0
+bangalore@bangalore.edu|392|108
+bms@bms.edu|200|60
+gurunanak@gmail.com|691|199
+jain@gmail.com|613|172
+ramaiah@ramaiah.edu|96|28
+rns@rns.edu|303|84
+rvitm@gmail.com|504|144

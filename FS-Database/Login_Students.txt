@@ -1,0 +1,8 @@
+1|mayankanuragi2013@gmail.com|pass
+2|rakshitnaik79@gmail.com|pass
+3|manojgalanki@gmail.com|pass
+4|saurav@gmail.com|password
+5|gunesh@gmail.com|password
+6|hamza@gmail.com|password
+7|rahul@gmail.com|password
+8|huzaifa@gmail.com|password
